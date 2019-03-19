@@ -1,0 +1,300 @@
+    
+ { 
+     
+    "indexImg":[  
+    
+    {
+    "imgUrl":"static/img/xiangqing.jpg",
+        "imgTitle":"轩尼诗xo700ml法国进。。。",
+        "imgType":"490件已售",
+        "price":"￥1579.00",
+        "yajin":"￥1545.00",
+        "img":"static/img/gouwuche.jpg",
+        "id":"1" 
+    },
+    {
+        "imgUrl":"static/img/xiangqing.jpg",
+        "imgTitle":"轩尼诗xo700ml法国进。。。",
+        "imgType":"490件已售",
+        "price":"￥1579.00",
+        "yajin":"￥1545.00",
+        "img":"static/img/gouwuche.jpg",
+        "id":"2" 
+    },
+    {
+        "imgUrl":"static/img/xiangqing.jpg",
+        "imgTitle":"轩尼诗xo700ml法国进。。。",
+        "imgType":"490件已售",
+        "price":"￥1579.00",
+        "yajin":"￥1545.00",
+        "img":"static/img/gouwuche.jpg",
+        "id":"3" 
+    },{
+        "imgUrl":"static/img/xiangqing.jpg",
+        "imgTitle":"轩尼诗xo700ml法国进。。。",
+        "imgType":"490件已售",
+        "price":"￥1579.00",
+        "yajin":"￥1545.00",
+        "img":"static/img/gouwuche.jpg",
+        "id":"4" 
+    },{
+        "imgUrl":"static/img/xiangqing.jpg",
+        "imgTitle":"轩尼诗xo700ml法国进。。。",
+        "imgType":"490件已售",
+        "price":"￥1579.00",
+        "yajin":"￥1545.00",
+        "img":"static/img/gouwuche.jpg",
+        "id":"5" 
+    },{
+        "imgUrl":"static/img/xiangqing.jpg",
+        "imgTitle":"轩尼诗xo700ml法国进。。。",
+        "imgType":"490件已售",
+        "price":"￥1579.00",
+        "yajin":"￥1545.00",
+        "img":"static/img/gouwuche.jpg",
+        "id":"6" 
+    },{
+        "imgUrl":"static/img/xiangqing.jpg",
+        "imgTitle":"轩尼诗xo700ml法国进。。。",
+        "imgType":"490件已售",
+        "price":"￥1579.00",
+        "yajin":"￥1545.00",
+        "img":"static/img/gouwuche.jpg",
+        "id":"7" 
+    },{
+        "imgUrl":"static/img/xiangqing.jpg",
+        "imgTitle":"轩尼诗xo700ml法国进。。。",
+        "imgType":"490件已售",
+        "price":"￥1579.00",
+        "yajin":"￥1545.00",
+        "img":"static/img/gouwuche.jpg",
+        "id":"8" 
+    }
+],
+    "shoppimg":[
+        {  
+            "imgUrl":"static/img/jiangjiu.jpg",
+            "imgTitle":"[聚优特]原价138元的。。。",
+            "imgType":"490件已售",
+            "price":"￥138.00",
+            "yajin":"￥128.00",
+            "img":"static/img/meituan.jpg",
+            "id":"1" 
+
+        }, {  
+            "imgUrl":"static/img/jiangjiu.jpg",
+            "imgTitle":"[聚优特]原价138元的。。。",
+            "imgType":"490件已售",
+            "price":"￥138.00",
+            "yajin":"￥128.00",
+            "img":"static/img/meituan.jpg",
+            "id":"2" 
+        },  {  
+            "imgUrl":"static/img/jiangjiu.jpg",
+            "imgTitle":"[聚优特]原价138元的。。。",
+            "imgType":"490件已售",
+            "price":"￥138.00",
+            "yajin":"￥128.00",
+            "img":"static/img/meituan.jpg",
+            "id":"3" 
+
+        },  {  
+            "imgUrl":"static/img/jiangjiu.jpg",
+            "imgTitle":"[聚优特]原价138元的。。。",
+            "imgType":"490件已售",
+            "price":"￥138.00",
+            "yajin":"￥128.00",
+            "img":"static/img/meituan.jpg",
+            "id":"5" 
+
+        },  {  
+            "imgUrl":"static/img/jiangjiu.jpg",
+            "imgTitle":"[聚优特]原价138元的。。。",
+            "imgType":"490件已售",
+            "price":"￥138.00",
+            "yajin":"￥128.00",
+            "img":"static/img/meituan.jpg",
+            "id":"6" 
+
+        },  {  
+            "imgUrl":"static/img/jiangjiu.jpg",
+            "imgTitle":"[聚优特]原价138元的。。。",
+            "imgType":"490件已售",
+            "price":"￥138.00",
+            "yajin":"￥128.00",
+            "img":"static/img/meituan.jpg",
+            "id":"7" 
+
+        }
+
+
+
+
+
+
+
+
+    ],
+    "shangpinxiangqing":[
+        {
+             "liebiaotou":"家乡味道",
+             "id":"1" ,
+             "jiaxiangweidao":[
+                 {
+                    
+                        
+                            "jiaxiangweidao_2":"地方特色"
+                        },{
+                            "jiaxiangweidao_2":"粮油调味"
+                        },{
+                            "jiaxiangweidao_2":"休闲零食"
+                        },{
+                            "jiaxiangweidao_2":"肉禽蛋品"
+                        },{
+                            "jiaxiangweidao_2":"干货炒货"
+                        }
+                    
+                     
+                 
+             ]
+
+             
+        },{
+            "liebiaotou":"名酒特卖",
+            "id":"2",
+            "jiaxiangweidao":[
+                {
+                   
+                       
+                           "jiaxiangweidao_2":"地方特色"
+                       },{
+                           "jiaxiangweidao_2":"粮油调味"
+                       },{
+                           "jiaxiangweidao_2":"休闲零食"
+                       },{
+                           "jiaxiangweidao_2":"肉禽蛋品"
+                       },{
+                           "jiaxiangweidao_2":"干货炒货"
+                       }
+                   
+                    
+                
+            ]
+         },{
+             "liebiaotou":"爱心助农",
+             "id":"3" ,
+             "jiaxiangweidao":[
+                {
+                   
+                       
+                           "jiaxiangweidao_2":"地方特色"
+                       },{
+                           "jiaxiangweidao_2":"粮油调味"
+                       },{
+                           "jiaxiangweidao_2":"休闲零食"
+                       },{
+                           "jiaxiangweidao_2":"肉禽蛋品"
+                       },{
+                           "jiaxiangweidao_2":"干货炒货"
+                       }
+                   
+                    
+                
+            ]
+         },{
+               "liebiaotou":"清仓扫货",
+               "id":"4" ,
+               "jiaxiangweidao":[
+                {
+                   
+                       
+                           "jiaxiangweidao_2":"地方特色"
+                       },{
+                           "jiaxiangweidao_2":"粮油调味"
+                       },{
+                           "jiaxiangweidao_2":"休闲零食"
+                       },{
+                           "jiaxiangweidao_2":"肉禽蛋品"
+                       },{
+                           "jiaxiangweidao_2":"干货炒货"
+                       }
+                   
+                    
+                
+            ]
+         },{
+           "liebiaotou":"年货节",
+           "id":"5" ,
+           "jiaxiangweidao":[
+            {
+               
+                   
+                       "jiaxiangweidao_2":"地方特色"
+                   },{
+                       "jiaxiangweidao_2":"粮油调味"
+                   },{
+                       "jiaxiangweidao_2":"休闲零食"
+                   },{
+                       "jiaxiangweidao_2":"肉禽蛋品"
+                   },{
+                       "jiaxiangweidao_2":"干货炒货"
+                   }
+               
+                
+            
+        ]
+        
+         },{
+           "liebiaotou":"月饼团购",
+           "id":"6" ,
+           "jiaxiangweidao":[
+            {
+               
+                   
+                       "jiaxiangweidao_2":"地方特色"
+                   },{
+                       "jiaxiangweidao_2":"粮油调味"
+                   },{
+                       "jiaxiangweidao_2":"休闲零食"
+                   },{
+                       "jiaxiangweidao_2":"肉禽蛋品"
+                   },{
+                       "jiaxiangweidao_2":"干货炒货"
+                   }
+               
+                
+            
+        ]
+         },{
+             "liebiaotou":"果园直供",
+             "id":"7" ,
+             "jiaxiangweidao":[
+                {
+                   
+                       
+                           "jiaxiangweidao_2":"地方特色"
+                       },{
+                           "jiaxiangweidao_2":"粮油调味"
+                       },{
+                           "jiaxiangweidao_2":"休闲零食"
+                       },{
+                           "jiaxiangweidao_2":"肉禽蛋品"
+                       },{
+                           "jiaxiangweidao_2":"干货炒货"
+                       }
+                   
+                    
+                
+            ]
+         }
+
+    ]
+   
+     
+
+
+
+
+
+
+}
